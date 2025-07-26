@@ -212,7 +212,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Desenvolvido com ❤️ para demonstrar conceitos modernos de desenvolvimento web e e-commerce.
+Desenvolvido por Matheus Kawai
 
 ---
 
